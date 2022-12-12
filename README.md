@@ -8,7 +8,7 @@
 </div>
 
 <br>
-- 🌱 I’m currently learning modern Javascript, React building small projects, to solidify my knowledge  about front-end... 
+- 🌱 I’m currently learning modern Javascript, React building small projects, to solidify my knowledge  in front-end... 
 
 
 
