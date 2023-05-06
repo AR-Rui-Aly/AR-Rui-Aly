@@ -1,8 +1,7 @@
 <h1> Hi There  <img ![hello there]("https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif")
  width = 50px> </h1>
 <p align='center'>
- 
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AR-Rui-Aly)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AR-Rui-Aly)
 
