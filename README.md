@@ -11,7 +11,7 @@
 </div>
 
 <br>
-- 🌱 I’m a frontend  modern Javascript developer, currently building projects in React.js and more... 
+- 🌱 I’m a frontend  React + Typescript developer,continously building my skills, any opportunity to help me grow is welcome.
 
 
 
