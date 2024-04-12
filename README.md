@@ -1,4 +1,4 @@
-/** @format */
+
 <h1> Hi There  <img ![hello there]("https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif")
  width = 50px> </h1>
 <p align='center'>
@@ -8,11 +8,11 @@
 
 
 </p>
-<div size='20px'> My name is A-RAZAC RUİ. Thank You for taking the time to view my GitHub Profile 
+<div size='20px'> Thank You for taking the time to view my GitHub Profile 
 </div>
 
 <br>
-- 🌱 I’m a programmer, aspiring Cybersecurity Professional with continously eveolving interest in IT and I love challenges and learning.
+- 🌱 I’m a programmer, Aspiring Cybersecurity Professional with continously eveolving interest in IT and I love challenges and learning.
 
 
 
