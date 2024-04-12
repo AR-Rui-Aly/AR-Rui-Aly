@@ -12,7 +12,7 @@
 </div>
 
 <br>
-- 🌱 I’m a frontend  React + Typescript developer,continously building my skills, any opportunity to help me grow is welcome.
+- 🌱 I’m a programmer, aspiring Cybersecurity Professional with continously eveolving interest in IT and I love challenges and learning.
 
 
 
