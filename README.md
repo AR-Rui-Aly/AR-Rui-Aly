@@ -12,7 +12,7 @@
 </div>
 
 <br>
-- 🌱 I’m a programmer, Aspiring Cybersecurity Professional with continously eveolving interest in IT and I love challenges and learning.
+- 🌱 I’m a programmer, Aspiring Cyber Security Professional with a continously evolving interest in IT.
 
 
 
@@ -23,6 +23,10 @@
 <a href= https://github.com/rtahabas?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/rtahabas?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
 <a href= https://github.com/AR-Rui-Aly?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
+<a href="https://github.com/AR-Rui-Aly?tab=repositories&q=&type=&language=python&sort=">
+    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
+</a>
+
 
 
 
