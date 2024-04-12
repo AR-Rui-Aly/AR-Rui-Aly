@@ -12,7 +12,7 @@
 </div>
 
 <br>
-- 🌱 I’m a programmer, Aspiring Cyber Security Professional with a continously evolving interest in IT.
+- 🌱 I’m a programmer, Aspiring Cybersecurity Professional with a continously evolving interest in IT.
 
 
 
@@ -33,6 +33,10 @@
 <h2> How to reach me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/ruialy1234567890'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/AR-Rui-Aly'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href="mailto:eltonruiy@gmail.com">
+    <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg"/>
+</a>
+
 
 
 
