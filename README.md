@@ -7,7 +7,7 @@
   
 - <b>PowerShell</b>
 
-  [Running Pyhton Script for user accounting audit, check for malware, and Check for system update ](https://github.com/AR-Rui-Aly/security-automation)
+  [Running Pyhton Script for user account audit, check for malware, and Check for system update ](https://github.com/AR-Rui-Aly/security-automation)
 
 
 - <b>SQL </b>
