@@ -1,4 +1,4 @@
-<h1>Hi, I'm ALY! <br/><a href="https://github.com/AR-Rui-Aly">Software Engineer</a>, <a href="https://www.linkedin.com/in/rui-aly/">Cybersecurity Professional</a>
+<h1>Hi, I'm ALY! <br/><a href="https://github.com/AR-Rui-Aly">Business Analyst & /a> <a href="https://www.linkedin.com/in/rui-aly/">IT Enthusiast</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
