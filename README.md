@@ -1,4 +1,4 @@
-<h1>Hi, I'm ALY! <br/><a href="https://github.com/AR-Rui-Aly">Business Analyst & <a href="https://www.linkedin.com/in/rui-aly/">IT Enthusiast</a>
+<h1>Hi, I'm ALY! <br/><a href="https://github.com/AR-Rui-Aly">Business/Data Analyst & <a href="https://www.linkedin.com/in/rui-aly/">IT Enthusiast</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
